@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/tch-sms-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tch-sms-dynamark" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tch-sms-mock" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tch-sms-twilio" charset="UTF-8" />
+  </component>
+</project>
